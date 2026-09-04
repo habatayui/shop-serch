@@ -25,7 +25,8 @@
   <script>
     async function loadStores() {
       try {
-        const response = await fetch('stores (2).json');
+                const response = await fetch('stores_2.json');
+
         if (!response.ok) {
           throw new Error('データの取得に失敗しました');
         }
