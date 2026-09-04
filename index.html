@@ -3,88 +3,54 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>いい街こまつプレミアム 取扱店検索</title>
+  <title>店舗一覧</title>
   <style>
-    body { font-family: sans-serif; max-width: 800px; margin: 20px auto; padding: 0 10px; }
-    .search-box { margin-bottom: 20px; display: flex; gap: 10px; flex-wrap: wrap; }
-    input, select { padding: 8px; font-size: 16px; }
-    input[type="text"] { flex-grow: 1; }
-    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-    th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }
-    th { background-color: #f4f4f4; }
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+    .shop-card {
+      border: 1px solid #ccc;
+      padding: 15px;
+      margin-bottom: 10px;
+      border-radius: 8px;
+    }
   </style>
 </head>
 <body>
 
-  <h2>取扱店 検索ツール</h2>
-
-  <div class="search-box">
-    <input type="text" id="keyword" placeholder="店舗名やフリガナで検索..." oninput="filterShops()">
-    <select id="category" onchange="filterShops()">
-      <option value="">すべての業種</option>
-      <option value="飲食">飲食</option>
-      <option value="衣料品・呉服・寝具・手芸材料">衣料品・呉服・寝具・手芸材料</option>
-      <option value="百貨店・総合スーパー">百貨店・総合スーパー</option>
-    </select>
-  </div>
-
-  <table>
-    <thead>
-      <tr>
-        <th>業種</th>
-        <th>店舗名</th>
-        <th>フリガナ</th>
-      </tr>
-    </thead>
-    <tbody id="shop-list">
-      </tbody>
-  </table>
+  <h1>店舗一覧</h1>
+  <div id="shop-list">読み込み中...</div>
 
   <script>
-    // 該当ページから抽出したデータ（例）
-    const shops = [
-      { category: "百貨店・総合スーパー", name: "アル・プラザ小松（直営売場）", kana: "アル・プラザコマツ（チョクエイウリバ）" },
-      { category: "衣料品・呉服・寝具・手芸材料", name: "アルプラザ小松店 ジグザグ", kana: "アルプラザコマツテン ジグザグ" },
-      { category: "飲食", name: "&sand 小松店", kana: "アンドサンド コマツテン" },
-      { category: "飲食", name: "ミスタードーナツ アルプラザ小松", kana: "ミスタードーナツ アルプラザコマツ" },
-      { category: "飲食", name: "札幌ラーメン 今江店", kana: "サッポロラーメンイマエテン" },
-      { category: "飲食", name: "すし食いねぇ！小松沖店", kana: "スシクイネェ！コマツオキテン" }
-    ];
+    async function loadStores() {
+      try {
+        const response = await fetch('stores.json');
+        if (!response.ok) {
+          throw new Error('データの取得に失敗しました');
+        }
+        const stores = await response.json();
 
-    // 検索フィルタリング処理
-    function filterShops() {
-      const keyword = document.getElementById("keyword").value.toLowerCase();
-      const selectedCategory = document.getElementById("category").value;
-      const listContainer = document.getElementById("shop-list");
+        const container = document.getElementById('shop-list');
+        container.innerHTML = '';
 
-      listContainer.innerHTML = ""; // 画面のリセット
-
-      const filtered = shops.filter(shop => {
-        const matchesKeyword = shop.name.toLowerCase().includes(keyword) || 
-                               shop.kana.toLowerCase().includes(keyword);
-        const matchesCategory = selectedCategory === "" || shop.category.includes(selectedCategory);
-
-        return matchesKeyword && matchesCategory;
-      });
-
-      // 該当データをテーブルに追加
-      filtered.forEach(shop => {
-        const row = document.createElement("tr");
-        row.innerHTML = `
-          <td>${shop.category}</td>
-          <td>${shop.name}</td>
-          <td>${shop.kana}</td>
-        `;
-        listContainer.appendChild(row);
-      });
-
-      if (filtered.length === 0) {
-        listContainer.innerHTML = '<tr><td colspan="3" style="text-align:center;">該当する店舗が見つかりませんでした。</td></tr>';
+        stores.forEach(shop => {
+          const card = document.createElement('div');
+          card.className = 'shop-card';
+          card.innerHTML = `
+            <h2>${shop.name}</h2>
+            <p><strong>住所:</strong> ${shop.address}</p>
+            <p><strong>営業時間:</strong> ${shop.hours}</p>
+          `;
+          container.appendChild(card);
+        });
+      } catch (error) {
+        document.getElementById('shop-list').textContent = '店舗情報の読み込みエラーが発生しました。';
+        console.error(error);
       }
     }
 
-    // 初期表示
-    filterShops();
+    loadStores();
   </script>
 
 </body>
