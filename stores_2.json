@@ -1,0 +1,2822 @@
+[
+  {
+    "facility": "アル・プラザ小松",
+    "name": "アル・プラザ小松(直営売場)",
+    "category": "百貨店・総合スーパー",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "R+RENDA",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "Red WOOD",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "ジグザグ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "リミテッド",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "レベッカ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "みずべ",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "カワグチ",
+    "category": "各種食料品",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "芝寿し",
+    "category": "各種食料品",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "& sand",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "PIE TIME",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "カフェテラス ミツバ",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "コナモン大王 ChocoTea",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "すぷらっしゅソフトクリーム部",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "ゼッテリア",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "ミスタードーナツ",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "やぐら",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "らうめん侍",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "和食三宝",
+    "category": "飲食",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "写真屋コスモ",
+    "category": "カメラ・写真",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "赤ちゃん本舗",
+    "category": "その他",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "無印良品",
+    "category": "その他",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "小松ロフト",
+    "category": "その他",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "アル・プラザ小松",
+    "name": "スマホスピタル",
+    "category": "その他",
+    "address": "園町ハ23番地1"
+  },
+  {
+    "facility": "イオン小松店",
+    "name": "イオン小松店(直営売場)",
+    "category": "百貨店・総合スーパー",
+    "address": "平面町ア69"
+  },
+  {
+    "facility": "イオン小松店",
+    "name": "麺房廣見",
+    "category": "飲食",
+    "address": "平面町ア69"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "イオンスタイル新小松",
+    "category": "百貨店・総合スーパー",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "BREEZE",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "CALNE",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "earth music&ecology natural store",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "FUTURE SUIT TECHNOLOGY",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "grove",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "HULLE",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "Hush Puppies",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "LASUD",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "LEPSIM",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "LOWRYSFARM",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "M-Factory",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "niko and...",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "SM2 keittio",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "studio CLIP",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "WEGO",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ZARA",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "オッズオレコンプレックス",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "クールカレアン",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "グローバルワーク",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ジーユー",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "チュチュアンナグランデ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ハニーズ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "プティマイン",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ブランシェス",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ベルーナ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ユニクロ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ALBION DRESSER",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "OWNDAYS",
+    "category": "宝石・時計・眼鏡等",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "Zoff",
+    "category": "宝石・時計・眼鏡等",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ザ・クロックハウス",
+    "category": "宝石・時計・眼鏡等",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ブランドショップハピネス",
+    "category": "宝石・時計・眼鏡等",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ミルフローラ",
+    "category": "宝石・時計・眼鏡等",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ジョーシン",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "スマートクール",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ふくろう&エキゾチックアニマルカフェわたど〜る",
+    "category": "スポーツ・レジャー・ペット販売",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ペテモ",
+    "category": "スポーツ・レジャー・ペット販売",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "メガスポーツ",
+    "category": "スポーツ・レジャー・ペット販売",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "Franc franc",
+    "category": "家具・美産・インテリア",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "Style",
+    "category": "家具・美産・インテリア",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "カルディコーヒーファーム",
+    "category": "各種食料品",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ぶどうの森",
+    "category": "各種食料品",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "久世福商店",
+    "category": "各種食料品",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "銀座惣菜店",
+    "category": "各種食料品",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ココキュリオ",
+    "category": "文具・OA機器",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "KaBoS",
+    "category": "玩具・音楽・書籍",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ふるいち",
+    "category": "玩具・音楽・書籍",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "212 KITCHEN STORE",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "3COINS+plus",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "HAPPY GIFT",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "one's terrace",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "Seria",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "イルーシー 300",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ヴィレッジヴァンガード",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "グローバルセレクション",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "チャイハネ",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "パーツクラブ",
+    "category": "日用雑貨・金物",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ABC-MART GRAND STAGE",
+    "category": "靴・鞄・帽子",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ABC-MART",
+    "category": "靴・鞄・帽子",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "サックスバープラス",
+    "category": "靴・鞄・帽子",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "chawan",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "Hono Musubi",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "いきなりステーキ",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "インディアンハット",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "サイゼリヤ",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "サーティワンアイスクリーム",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "スターバックスコーヒー",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ディッパーダン",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ドトールコーヒー",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ビアードパパ",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ペッパーランチ",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ほのむすび",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ミスタードーナツ",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "もりもり寿し",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "リンガーハット",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "果汁工房果琳",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "魁力屋",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "鎌倉パスタ",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "丸亀製麺",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "牛角焼肉食堂",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "築地銀だこ",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "北の炙り あかり屋",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "和幸",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "炙り牛たん万",
+    "category": "飲食",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "スタジオアリス",
+    "category": "カメラ・写真",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "fufu",
+    "category": "理容・美容・エステ",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "KAINO",
+    "category": "理容・美容・エステ",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ラフィネ",
+    "category": "理容・美容・エステ",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "JTB",
+    "category": "旅行",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "マジックミシン・リアット!",
+    "category": "その他",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "PARIS JULIET",
+    "category": "その他",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "PLAZA",
+    "category": "その他",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "アイシティ",
+    "category": "その他",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "イオンモール新小松",
+    "name": "ヤングドライ",
+    "category": "その他",
+    "address": "清六町315番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "伊藤ふとん店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "龍助町141"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ウイングきた",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "島町ル151番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "大杉屋ふとん店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "本折町72"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "オズモード・小沢",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "符津町ウ28"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "香名 ひろこさんち",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "矢田野町タ157-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "カネセン",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "八日市町38-5"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)河島呉服店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "本折町108"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "北村洋品店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "上本折町33"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "きもの つたや",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "糸町1-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "暮しの衣料きたがわ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "若杉町2丁目61"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Cloths Shop ニシムラ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "蓑輪町口89番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "コシエ洋品店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "上本折町93"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "雑貨わたげ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "吉竹町4丁目219"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "三合洋装店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "三日市町29"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "手芸サロン はまゆう",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "幸町2丁目70番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "SPECS",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "若杉町2-38"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "SMALL STAND",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "若杉町2-38"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "せきど衣料店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "土居原町214"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "セルパン北林",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "大領中町2丁目12"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "たかはし呉服店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "白江町タ250"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ちりめん工房楓",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "平面町へ11-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "トヨシマ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "浮柳町350 小松空港ターミナルビル2F"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "PUZZLE小松店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "八日市町58番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "華友禅 菊屋",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "福乃宮町1丁目33-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "baboo",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "幸町1-26"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ファッションサロンにしうら",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "長田町3244"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ファッションタイム ナカノ",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "一針町リ92"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "FAVOR",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "園町ハ60-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ますの衣料・花店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "粟津町イ-103"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "洋服の青山 小松店",
+    "category": "衣料品・呉服・寝具・手芸材料",
+    "address": "沖町596番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "勝木薬局",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "龍助町85"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "かるみ薬局",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "西軽海町1丁目104"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "漢方爽泉 ドラックストア前田",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "八幡口2-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "下野薬局",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "符津町イ101"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "d+ヨシダ",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "梯町イ47-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ヒーリングハウス ささはら",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "光町30"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ヘルス&ビューティー KAJI",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "土居原町207-5"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "メナード化粧品 小松南部代行店",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "下粟津町ア44-11"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "リリー化粧品店",
+    "category": "医薬品(処方箋除く)・化粧品",
+    "address": "龍助町55番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)枷場石油店 下粟津SS",
+    "category": "石油・ガソリン",
+    "address": "下粟津町ろ21-4"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "セルフDr.Drive イオンモール新小松SS",
+    "category": "石油・ガソリン",
+    "address": "清六町99"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "セルフDr.Drive フレスポ小松SS",
+    "category": "石油・ガソリン",
+    "address": "下牧町己533"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "大城エネルギー株式会社 小松支店",
+    "category": "石油・ガソリン",
+    "address": "浜田町口64乙"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "矢田野SS",
+    "category": "石油・ガソリン",
+    "address": "矢田野町へ19"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)岩倉商店サンロードカルミSS",
+    "category": "石油・ガソリン",
+    "address": "軽海町ソ50番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)河原燃料",
+    "category": "石油・ガソリン",
+    "address": "安宅町ヲ108-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)井出商事 エアポート小松SS",
+    "category": "石油・ガソリン",
+    "address": "浮柳町ハ122番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "オプトパレス小松",
+    "category": "宝石・時計・眼鏡等",
+    "address": "一針町口2-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "手づくり指輪 silo",
+    "category": "宝石・時計・眼鏡等",
+    "address": "龍助町26-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ビジュ寺口",
+    "category": "宝石・時計・眼鏡等",
+    "address": "龍助町138番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "宝石の珠光",
+    "category": "宝石・時計・眼鏡等",
+    "address": "大領町口87-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "メガネの金光堂",
+    "category": "宝石・時計・眼鏡等",
+    "address": "龍助町139"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "森立志堂",
+    "category": "宝石・時計・眼鏡等",
+    "address": "土居原町189-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "アンド・いわい",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "今江町4-151"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "アンド・たにぐち",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "打越町乙68"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ePLANS・タカ",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "今江町8-203番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ePLANS・タキ屋",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "本折町82"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ePLANS・ホンボ",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "新鍛冶町乙225-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "エディオン 小松本店",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "打越町イ27"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)伊藤電機",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "沖町チ32-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ケーズデンキ小松店",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "不動島町68番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "高宮電化",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "京町84-4番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "茶山デンキ",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "三日市町43番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "でんきのパルム 池田",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "城北町47番地2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ニューイングランド たなか",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "符津町 91"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ワタリ電気",
+    "category": "電気製品・通信機器・ミシン",
+    "address": "大川町3丁目2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Outdoor style HAKU",
+    "category": "スポーツ・レジャー・ペット販売",
+    "address": "吉竹町よ38-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "アルペン小松沖町店",
+    "category": "スポーツ・レジャー・ペット販売",
+    "address": "沖町457"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Fishingつりよし",
+    "category": "スポーツ・レジャー・ペット販売",
+    "address": "城南町149番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "フィッシングセンターみちがみ",
+    "category": "スポーツ・レジャー・ペット販売",
+    "address": "下牧町二52-4"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ワンBOX 本店",
+    "category": "スポーツ・レジャー・ペット販売",
+    "address": "平面町 153-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "家具・ホームファッションイシイ",
+    "category": "家具・美産・インテリア",
+    "address": "長田町口200"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "家具プラザ トミオカ",
+    "category": "家具・美産・インテリア",
+    "address": "八日市町64"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)加賀不二ホームサッシ",
+    "category": "家具・美産・インテリア",
+    "address": "串茶屋町甲27-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "島内畳工業",
+    "category": "家具・美産・インテリア",
+    "address": "串町南6"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "瀬々らぎの森 ミシェル、アンシャンペトル",
+    "category": "家具・美産・インテリア",
+    "address": "瀬領町カ122"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "滝本畳店",
+    "category": "家具・美産・インテリア",
+    "address": "龍助町30番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Pファブリック",
+    "category": "家具・美産・インテリア",
+    "address": "白嶺町1丁目16-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "あきや加賀漬物本店",
+    "category": "各種食料品",
+    "address": "梯町イ61番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "あづまや駅前本店",
+    "category": "各種食料品",
+    "address": "土居原町112"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "あづまや 島田店",
+    "category": "各種食料品",
+    "address": "島田町 58"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "あんずの木",
+    "category": "各種食料品",
+    "address": "今江町7-416-4"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "And.",
+    "category": "各種食料品",
+    "address": "若杉町1-60 グランディール102"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "犬丸屋北浅井店",
+    "category": "各種食料品",
+    "address": "北浅井町ち45"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "犬丸屋本店",
+    "category": "各種食料品",
+    "address": "土居原町753番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "E'rable",
+    "category": "各種食料品",
+    "address": "木場町け10番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "大橋老舗",
+    "category": "各種食料品",
+    "address": "梯町口27-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "奥商店",
+    "category": "各種食料品",
+    "address": "今江町1丁目239"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "お餅屋まるしん堂",
+    "category": "各種食料品",
+    "address": "新町57番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "温泉すーぱー",
+    "category": "各種食料品",
+    "address": "粟津町7-24甲"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "CASA BRAZIL KOMATSU",
+    "category": "各種食料品",
+    "address": "日の出町三丁目121-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "加賀菓子処 御朱印 本店",
+    "category": "各種食料品",
+    "address": "八日市町34"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "菓子工房 Yodogawa",
+    "category": "各種食料品",
+    "address": "国府台2-96"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "鹿島屋",
+    "category": "各種食料品",
+    "address": "松任町105番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Kaju Re:",
+    "category": "各種食料品",
+    "address": "吉竹町ヌ36"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "牛匠しまだ",
+    "category": "各種食料品",
+    "address": "御宮町30"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "河田ふたば",
+    "category": "各種食料品",
+    "address": "河田町り92"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "極生プリン専門店いけ田釉",
+    "category": "各種食料品",
+    "address": "若杉町2-52"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "越田醤油店",
+    "category": "各種食料品",
+    "address": "大文字町138番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "sunらいず",
+    "category": "各種食料品",
+    "address": "千木野町は105"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "JAあぐり",
+    "category": "各種食料品",
+    "address": "日末町い59-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "自然食品otte",
+    "category": "各種食料品",
+    "address": "北浅井町ち31番1 ボナンザ1F"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "じんずし大川店",
+    "category": "各種食料品",
+    "address": "大川町3-61"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "新鮮市場あわづ中央店",
+    "category": "各種食料品",
+    "address": "蓑輪町口-100"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "新保屋菓子店",
+    "category": "各種食料品",
+    "address": "今江町7丁目8番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "スイーツガーデン マルフジ",
+    "category": "各種食料品",
+    "address": "沖町ナ30"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "すみげん本店",
+    "category": "各種食料品",
+    "address": "三日市町9"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "瀬々らぎの森 モリスベーカリー",
+    "category": "各種食料品",
+    "address": "瀬領町力122"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "TAIYAKICAFE8989",
+    "category": "各種食料品",
+    "address": "向本折町寅275番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "竹下鮮魚店",
+    "category": "各種食料品",
+    "address": "松任町51番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "竹本商店",
+    "category": "各種食料品",
+    "address": "三日市町56番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "但馬青果店",
+    "category": "各種食料品",
+    "address": "大文字町139-4"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "但馬鮮魚店",
+    "category": "各種食料品",
+    "address": "大文字町147-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "たにむら平安堂",
+    "category": "各種食料品",
+    "address": "安宅町へ231-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ちいさな菓子店gabu",
+    "category": "各種食料品",
+    "address": "平面町力5番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "長保屋茶舖",
+    "category": "各種食料品",
+    "address": "龍助町81番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ツキトワ by meigetsudo",
+    "category": "各種食料品",
+    "address": "長崎町1丁目85番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "徳田盛華堂",
+    "category": "各種食料品",
+    "address": "八日市町44-12"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "長池彩華堂",
+    "category": "各種食料品",
+    "address": "今江町7-669"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中出精肉店",
+    "category": "各種食料品",
+    "address": "龍助町1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中出鮮魚店",
+    "category": "各種食料品",
+    "address": "梯町口40-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "肉のみやまえ",
+    "category": "各種食料品",
+    "address": "今江町7丁目66"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "パティスリーベルネサンス",
+    "category": "各種食料品",
+    "address": "北浅井町舟津33-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "はまや本舗",
+    "category": "各種食料品",
+    "address": "本折町8番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Bikke",
+    "category": "各種食料品",
+    "address": "若杉町2-84"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Bikke 小松駅店",
+    "category": "各種食料品",
+    "address": "土居原町13番18"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "フードショップでぐち",
+    "category": "各種食料品",
+    "address": "安宅町り45-174"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ブーランジェラ・フェスタ",
+    "category": "各種食料品",
+    "address": "沖町ハ30-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ブーランジェリーカナエ",
+    "category": "各種食料品",
+    "address": "園町二46番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "藤中芳水堂",
+    "category": "各種食料品",
+    "address": "千代町甲93番地3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "フランス菓子 赤い風車",
+    "category": "各種食料品",
+    "address": "新鍛冶町乙253"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "フルーツショップたちばな",
+    "category": "各種食料品",
+    "address": "白山町80-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "芳生堂",
+    "category": "各種食料品",
+    "address": "日の出町1丁目151番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "骨のあるチーズ屋さん",
+    "category": "各種食料品",
+    "address": "津波倉町ヲ34"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ボリュウムボックス小松若杉店",
+    "category": "各種食料品",
+    "address": "若杉町1丁目39-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "道の駅こまつ木場潟",
+    "category": "各種食料品",
+    "address": "蓮代寺町ケ2番2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "港屋珈琲 小松店",
+    "category": "各種食料品",
+    "address": "今江町ツ121番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "焼きたてパン サヴァ",
+    "category": "各種食料品",
+    "address": "今江町ツ121-6"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "焼豚屋本舗",
+    "category": "各種食料品",
+    "address": "矢崎町丙15-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "山上福寿堂",
+    "category": "各種食料品",
+    "address": "材木町48-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ヤマザキYショップよしむら",
+    "category": "各種食料品",
+    "address": "那谷町ぬ13"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "山田菓子舗",
+    "category": "各種食料品",
+    "address": "北浅井町と3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)池田精肉店",
+    "category": "各種食料品",
+    "address": "符津町ウ28-6"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)松旭堂",
+    "category": "各種食料品",
+    "address": "京町39-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)長寿庵みのわ",
+    "category": "各種食料品",
+    "address": "蓑輪町二1-4"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Le Lien (ルリアン)",
+    "category": "各種食料品",
+    "address": "軽海町甲45"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ルブラン クロレ",
+    "category": "各種食料品",
+    "address": "向本折町イ81"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "○・和・笑(わ・わ・わ)",
+    "category": "各種食料品",
+    "address": "沖町イ162(移動販売)"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)農口尚彦研究所",
+    "category": "酒",
+    "address": "観音下町ワ1番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "北村酒店",
+    "category": "酒",
+    "address": "国府台2丁目7"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "キムラ酒販",
+    "category": "酒",
+    "address": "梯町ト71"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "酒蔵・加越",
+    "category": "酒",
+    "address": "今江町9丁目605番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "酒つるしま",
+    "category": "酒",
+    "address": "城南町5番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "酒のやまや 小松店",
+    "category": "酒",
+    "address": "平面町ア69"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "島田酒店",
+    "category": "酒",
+    "address": "中海町6号225番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "神泉 東酒造",
+    "category": "酒",
+    "address": "野田町丁35番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "真保酒店",
+    "category": "酒",
+    "address": "大文字町41"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "瀧口酒店",
+    "category": "酒",
+    "address": "波佐谷町カ272番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中田酒店",
+    "category": "酒",
+    "address": "大和町32"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "みなみ酒販",
+    "category": "酒",
+    "address": "土居原町255-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "山川酒店",
+    "category": "酒",
+    "address": "松任町20番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)西尾酒店",
+    "category": "酒",
+    "address": "符津町ウ28番地3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)根上酒販",
+    "category": "酒",
+    "address": "粟津町二58番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ワインと地酒もりたか",
+    "category": "酒",
+    "address": "八幡町51番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "元田農産",
+    "category": "米穀類",
+    "address": "丸の内町2丁目100番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "岸商店",
+    "category": "米穀類",
+    "address": "西本折町32-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "米工房 ますもと",
+    "category": "米穀類",
+    "address": "上本折町20"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "戸井米穀店",
+    "category": "米穀類",
+    "address": "今江町2丁目458番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)ツジイケ",
+    "category": "米穀類",
+    "address": "蓑輪町口1-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)ゲンダ昭商店",
+    "category": "米穀類",
+    "address": "地子町79番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "石黒紙店",
+    "category": "文具・OA機器",
+    "address": "三日市町15"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中村一心堂",
+    "category": "文具・OA機器",
+    "address": "土居原町225-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "パソコン教室 ふぁんネット",
+    "category": "文具・OA機器",
+    "address": "三日市町41"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "文具のスーパーにしき堂",
+    "category": "文具・OA機器",
+    "address": "園町二50-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)うつのみや 小松城南店",
+    "category": "玩具・音楽・書籍",
+    "address": "城南町39-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "キタセ",
+    "category": "玩具・音楽・書籍",
+    "address": "八日市町68番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ピアノスマイル",
+    "category": "玩具・音楽・書籍",
+    "address": "白江町口77番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ファミコンランド小松",
+    "category": "玩具・音楽・書籍",
+    "address": "国町ハ127-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)ヨシダ楽器",
+    "category": "玩具・音楽・書籍",
+    "address": "園町ハ76番地3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "山口金物",
+    "category": "日用雑貨・金物",
+    "address": "符津町ウ23"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "山根金物店",
+    "category": "日用雑貨・金物",
+    "address": "粟津町ワ-13"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)大滝金物店",
+    "category": "日用雑貨・金物",
+    "address": "土居原町331番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "エンド農園 (エンドのタネ)",
+    "category": "花・植木・種子",
+    "address": "上本折町110"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "お花のSalon M&M",
+    "category": "花・植木・種子",
+    "address": "木場台86-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "グリーンフラワー",
+    "category": "花・植木・種子",
+    "address": "矢崎町ネ50"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "花工房 大西生花店",
+    "category": "花・植木・種子",
+    "address": "松任町101"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "はなゆう",
+    "category": "花・植木・種子",
+    "address": "大文字町110-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)ライラックフローリスト",
+    "category": "花・植木・種子",
+    "address": "三日市町31番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "WILD FLOWER",
+    "category": "花・植木・種子",
+    "address": "沖町ナ33"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "靴のフレンド",
+    "category": "靴・鞄・帽子",
+    "address": "符津町ウ93の1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "シューズ愛ランド小松店",
+    "category": "靴・鞄・帽子",
+    "address": "不動島町48"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "九谷焼体験工房良山",
+    "category": "九谷焼・美術・漆器",
+    "address": "井口町ト111-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "任田漆器店",
+    "category": "九谷焼・美術・漆器",
+    "address": "八日市町13の5"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "小松土産店 小松空港",
+    "category": "土産物・贈答品",
+    "address": "浮柳町350"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "こまQショップ",
+    "category": "土産物・贈答品",
+    "address": "浮柳町350番地先小松空港内"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "小松土産店",
+    "category": "土産物・贈答品",
+    "address": "土居原町13-18"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "サラダ館上小松店",
+    "category": "土産物・贈答品",
+    "address": "上小松町丙70"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "エイトホンダ",
+    "category": "自動車・自転車・農機具",
+    "address": "園町二62番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "オートバックス・小松店",
+    "category": "自動車・自転車・農機具",
+    "address": "沖町イ201"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "オートモービレッジ",
+    "category": "自動車・自転車・農機具",
+    "address": "北浅井町ろ130番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "カーパイン松山",
+    "category": "自動車・自転車・農機具",
+    "address": "矢崎町ネ4"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "カーピット松本",
+    "category": "自動車・自転車・農機具",
+    "address": "荒屋町丁10番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)太田モータース",
+    "category": "自動車・自転車・農機具",
+    "address": "幸町2-72"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)加賀オート",
+    "category": "自動車・自転車・農機具",
+    "address": "新町89-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)鈴八農機商会",
+    "category": "自動車・自転車・農機具",
+    "address": "高堂町ハ8番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)西田商会",
+    "category": "自動車・自転車・農機具",
+    "address": "串町庚4"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)ヒラシマ",
+    "category": "自動車・自転車・農機具",
+    "address": "園町ホ134-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(株)松井モータース",
+    "category": "自動車・自転車・農機具",
+    "address": "幸町1-65-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "くるま屋さんマーポ",
+    "category": "自動車・自転車・農機具",
+    "address": "古府町亥37番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "三洋自動車(株)",
+    "category": "自動車・自転車・農機具",
+    "address": "北浅井町乙110番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "車検・鈑金トマト",
+    "category": "自動車・自転車・農機具",
+    "address": "浮柳町へ79"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "藤田自転車商会",
+    "category": "自動車・自転車・農機具",
+    "address": "符津町井2-1-21"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ホクバン",
+    "category": "自動車・自転車・農機具",
+    "address": "矢崎町ナ11"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "山前サイクルセンター",
+    "category": "自動車・自転車・農機具",
+    "address": "河田町ヌ51"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)永井自動車",
+    "category": "自動車・自転車・農機具",
+    "address": "城南町61-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)松山自動車",
+    "category": "自動車・自転車・農機具",
+    "address": "下粟津町る29"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "(有)島崎自動車",
+    "category": "自動車・自転車・農機具",
+    "address": "矢田野町テ7"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ヨシダ自動車(株)",
+    "category": "自動車・自転車・農機具",
+    "address": "上小松町丙72-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "アクアテラス LAC",
+    "category": "飲食",
+    "address": "今江町へ117"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "BIANCO",
+    "category": "飲食",
+    "address": "木場潟公園西園地内"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "味彩食房 寿司大西",
+    "category": "飲食",
+    "address": "矢田野町ホ21"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "味処もみぢ",
+    "category": "飲食",
+    "address": "那谷町ユ4番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "味処あさぶ",
+    "category": "飲食",
+    "address": "八幡葵125"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "アミーゴ・アミ",
+    "category": "飲食",
+    "address": "矢崎町丁1-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ARU",
+    "category": "飲食",
+    "address": "大領中町1-227"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "粟津温泉 かっぱ寿司",
+    "category": "飲食",
+    "address": "粟津町9番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "居酒屋 一休",
+    "category": "飲食",
+    "address": "南陽町1-8"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "居酒屋 たこ栄",
+    "category": "飲食",
+    "address": "町口51"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "居酒屋 八角",
+    "category": "飲食",
+    "address": "清水町2-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "居酒屋 花びし",
+    "category": "飲食",
+    "address": "一針町レ67番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "居酒や晴いち",
+    "category": "飲食",
+    "address": "矢田野町二147-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "居酒屋 むらはつ",
+    "category": "飲食",
+    "address": "今江町8丁目1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "居酒屋 ビストロ 天力",
+    "category": "飲食",
+    "address": "大和町143"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "居酒屋らくすけ",
+    "category": "飲食",
+    "address": "沖町ト1-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "石焼ステーキ贅 石川小松店",
+    "category": "飲食",
+    "address": "清六町400番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "イタリアカフェ食堂cocoon",
+    "category": "飲食",
+    "address": "福乃宮町2-86"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "いち川",
+    "category": "飲食",
+    "address": "本折町110番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "一山楼",
+    "category": "飲食",
+    "address": "殿町二丁目17番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "一保",
+    "category": "飲食",
+    "address": "四丁町は40番地-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "インド・ネパール レストラン カマナ園町店",
+    "category": "飲食",
+    "address": "園町ヌ62-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ヴィーガンカフェヘヴンズキッチン",
+    "category": "飲食",
+    "address": "中ノ峠町ヌ125"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ウインスター",
+    "category": "飲食",
+    "address": "島町わ7-20"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "うどん工房 穂の香",
+    "category": "飲食",
+    "address": "若杉町3-21"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "鰻の成瀬小松店",
+    "category": "飲食",
+    "address": "若杉町3-15"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "うな与",
+    "category": "飲食",
+    "address": "本鍛冶町13-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "M'line MARKET",
+    "category": "飲食",
+    "address": "東町53"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "欧風食堂 Les Liens",
+    "category": "飲食",
+    "address": "浮城町76-2ソシアルビル101"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "お食事 杏の実",
+    "category": "飲食",
+    "address": "大和町113-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "お食事処はにう",
+    "category": "飲食",
+    "address": "希望丘1-40"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "御食事処ひょっとこ",
+    "category": "飲食",
+    "address": "植田町二224の2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "おとと屋",
+    "category": "飲食",
+    "address": "土居原町177番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "御料理 なかで",
+    "category": "飲食",
+    "address": "梯町口40-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "海都串店",
+    "category": "飲食",
+    "address": "串町セ125-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "割烹 有川",
+    "category": "飲食",
+    "address": "土居原町399番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "割烹 つかさ",
+    "category": "飲食",
+    "address": "東町34-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "割烹鮨 米八",
+    "category": "飲食",
+    "address": "松任町58"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "cafe off time",
+    "category": "飲食",
+    "address": "八幡壬270"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "カフェ ロータス",
+    "category": "飲食",
+    "address": "松任町54番地5"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "カフェ・レストラン ウインザー",
+    "category": "飲食",
+    "address": "矢田野町ヌ21番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "CAFÉ CERCLE",
+    "category": "飲食",
+    "address": "大領中町1-15"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "CAFE+BAR IKKA",
+    "category": "飲食",
+    "address": "八日市町62-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "カフェレストラン キャンティ",
+    "category": "飲食",
+    "address": "八日市町15"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "からあげ陽なた家",
+    "category": "飲食",
+    "address": "八幡甲255-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "カラオケ喫茶 わ歌",
+    "category": "飲食",
+    "address": "白江町ワ209"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "カラオケ喫茶&スナック ぽたん",
+    "category": "飲食",
+    "address": "符津町ソ53-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "カラオケ喫茶トモ",
+    "category": "飲食",
+    "address": "串町チ122"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "韓心ハンマウム",
+    "category": "飲食",
+    "address": "串町セ125-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "元祖 小田のたこやき",
+    "category": "飲食",
+    "address": "土居原町722"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "北一亭",
+    "category": "飲食",
+    "address": "城南町75-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "喫茶フローラ",
+    "category": "飲食",
+    "address": "小馬出町129"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "餃子菜館 勝ちゃん",
+    "category": "飲食",
+    "address": "土居原町395-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "京都ペペロッソ",
+    "category": "飲食",
+    "address": "矢崎町ネ20-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "銀寿し",
+    "category": "飲食",
+    "address": "粟津町ワ30番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "銀なべ食堂",
+    "category": "飲食",
+    "address": "粟津町イ46"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "喰う呑 海士屋",
+    "category": "飲食",
+    "address": "白嶺町1-23-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "串揚げいやさか 小松総本店",
+    "category": "飲食",
+    "address": "土居原町212-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "くれよん",
+    "category": "飲食",
+    "address": "打越町甲74-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "元泉",
+    "category": "飲食",
+    "address": "天神町49番地3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "紅茶専門店イーストリバー",
+    "category": "飲食",
+    "address": "国府台2-45"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "COFFEE喫茶AND酒場 MADOI",
+    "category": "飲食",
+    "address": "土居原町376-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "珈琲屋ジャマイカ",
+    "category": "飲食",
+    "address": "桜木町103番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "黒龍軒",
+    "category": "飲食",
+    "address": "矢崎町ナ172"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "小松うどん道場 つるっと",
+    "category": "飲食",
+    "address": "土居原町13-18"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "小松お多福",
+    "category": "飲食",
+    "address": "矢崎町ナ151番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "こまつ町家文庫",
+    "category": "飲食",
+    "address": "八日市町46"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "コメダ珈琲店小松沖店",
+    "category": "飲食",
+    "address": "沖町526"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "閣龍(コロンブス)",
+    "category": "飲食",
+    "address": "龍助町149番地2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "酒場JINZA",
+    "category": "飲食",
+    "address": "栄町4番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "39",
+    "category": "飲食",
+    "address": "中町4-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "酒と肴むら田",
+    "category": "飲食",
+    "address": "沖町ソ111-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "札幌ラーメン 今江店",
+    "category": "飲食",
+    "address": "今江町5丁目610-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "札幌ラーメン 小松インター",
+    "category": "飲食",
+    "address": "長崎町2丁目97"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "SALUD-VEGE DELICATESSEN",
+    "category": "飲食",
+    "address": "沖町ツ93"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "四季彩 粋庵",
+    "category": "飲食",
+    "address": "沖町ナ23千田ビル1階"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "支那そば 元祖 総本店",
+    "category": "飲食",
+    "address": "城南町29番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "酒房うさぎ",
+    "category": "飲食",
+    "address": "土居原町252番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "旬菜まつ村",
+    "category": "飲食",
+    "address": "土居原町395番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "旬の箸なか村",
+    "category": "飲食",
+    "address": "軽海町322Nビル1階"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "松竹",
+    "category": "飲食",
+    "address": "寺町85-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "城北南月",
+    "category": "飲食",
+    "address": "城北町70"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "昭和食堂 小松本店",
+    "category": "飲食",
+    "address": "矢田野町ヌ15"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "食・お酒 いこま",
+    "category": "飲食",
+    "address": "幸町3-88-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "食彩家 どん吉",
+    "category": "飲食",
+    "address": "吉竹町1-7"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "SHOT BAR Toast",
+    "category": "飲食",
+    "address": "三日市町53番8"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "寿司割烹 秀寿司",
+    "category": "飲食",
+    "address": "清水町7"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "鮨つばき",
+    "category": "飲食",
+    "address": "土居原町206"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "寿し割烹 竹屋",
+    "category": "飲食",
+    "address": "東町94-11"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "寿し割烹 藤吉",
+    "category": "飲食",
+    "address": "今江町7-429"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "すし食いねぇ!小松沖店",
+    "category": "飲食",
+    "address": "沖町528"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "寿し捨",
+    "category": "飲食",
+    "address": "土居原町410-2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ステーキ西洋料理shigeru",
+    "category": "飲食",
+    "address": "園町二78-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ステーキハウス小がわ",
+    "category": "飲食",
+    "address": "福乃宮町2丁目111番地1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "スナック みゆき",
+    "category": "飲食",
+    "address": "大和町136番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "spice cafe S",
+    "category": "飲食",
+    "address": "今江町5-358"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "炭火焼肉 あかみうし",
+    "category": "飲食",
+    "address": "平面町カ91-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "瀬々らぎの森 ラプティトゥポルト",
+    "category": "飲食",
+    "address": "瀬領町力122"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "そば処 松晶",
+    "category": "飲食",
+    "address": "八幡町111番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "そば処 藪司奈",
+    "category": "飲食",
+    "address": "今江町5丁目581"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "たこタロウ 土居原店",
+    "category": "飲食",
+    "address": "土居原町511-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "たこ焼きバルももんが",
+    "category": "飲食",
+    "address": "飴屋町68-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "チーたこの店 お好み焼ぴえろ",
+    "category": "飲食",
+    "address": "下牧町207-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Chinese Restaurant桂花",
+    "category": "飲食",
+    "address": "幸町3-117"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "茶和庵",
+    "category": "飲食",
+    "address": "園町口46-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中華食堂 元",
+    "category": "飲食",
+    "address": "城南町81-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中華料理燕軍",
+    "category": "飲食",
+    "address": "今江町3-164"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中華レストラン 珍龍",
+    "category": "飲食",
+    "address": "園町ホ117-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中国懐石ももたろう",
+    "category": "飲食",
+    "address": "大領中町3-167"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中国海鮮料理麗華",
+    "category": "飲食",
+    "address": "沖町ト170-5"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "珍香楼シェアン",
+    "category": "飲食",
+    "address": "園町二57-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "手打ちそば えん",
+    "category": "飲食",
+    "address": "瀬領町丙37"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "手打ちそばカフェまつぼっくり",
+    "category": "飲食",
+    "address": "北浅井町ト59-3"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "鉄鍋キッチンスキレット",
+    "category": "飲食",
+    "address": "大文字町142-1XIV1階1号"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "鉄板焼肉 しんらえん",
+    "category": "飲食",
+    "address": "東町17-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "toR café (トアルカフェ)",
+    "category": "飲食",
+    "address": "町二75-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "尚軒",
+    "category": "飲食",
+    "address": "糸町2-2幸日館1F"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "直又",
+    "category": "飲食",
+    "address": "符津町ウ23-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中佐中店 城南店",
+    "category": "飲食",
+    "address": "城南町119番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "中ノ峠物産販売所",
+    "category": "飲食",
+    "address": "中ノ峠町ヌ103乙中"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ナニワ",
+    "category": "飲食",
+    "address": "大領町口152"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "南栄",
+    "category": "飲食",
+    "address": "清水町80"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "日本料理 梶助",
+    "category": "飲食",
+    "address": "大和町141"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "日本料理 なか乃",
+    "category": "飲食",
+    "address": "大和町112番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "日本料理・鮨割烹 つるまる",
+    "category": "飲食",
+    "address": "末広町71番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "猫の芽工房",
+    "category": "飲食",
+    "address": "吉竹町レ172番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "Bar 橘",
+    "category": "飲食",
+    "address": "大和町133番地"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "ハオ家 中華料理",
+    "category": "飲食",
+    "address": "符津町イ-103"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "白山峠茶屋 小松北浅井店",
+    "category": "飲食",
+    "address": "北浅井町甲2"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "博龍・モンブラン",
+    "category": "飲食",
+    "address": "符津町井2-12"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "8番らーめん今江店",
+    "category": "飲食",
+    "address": "今江町ち88-1"
+  },
+  {
+    "facility": "街頭店舗",
+    "name": "8番らーめん小松店",
+    "category": "飲食",
+    "address": "有明町23番地"
+  },
+]
