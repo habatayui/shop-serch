@@ -360,12 +360,90 @@
       letter-spacing: 0.14em;
     }
 
+    .filter-panel {
+      background: rgba(255, 253, 251, 0.7);
+      border-radius: 20px;
+      border: 1px dashed var(--line);
+      padding: 14px 16px;
+      margin-top: 14px;
+      box-shadow: 0 8px 18px var(--shadow);
+    }
+
+    .filter-title {
+      font-family: var(--serif);
+      font-size: 22px;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+
+    .filter-form {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .filter-label {
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .filter-input,
+    .filter-select {
+      min-width: 180px;
+      height: 40px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: var(--paper);
+      color: var(--text);
+      padding: 0 16px;
+      font-family: var(--sans);
+      font-size: 12px;
+      outline: none;
+    }
+
+    .filter-input:focus,
+    .filter-select:focus {
+      border-color: var(--blush);
+      box-shadow: 0 0 0 3px rgba(244, 182, 168, 0.16);
+    }
+
+    .filter-reset {
+      height: 40px;
+      padding: 0 18px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: var(--cream);
+      color: var(--text);
+      font-family: var(--sans);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      cursor: pointer;
+      transition: transform 0.22s ease;
+    }
+
+    .filter-reset:hover {
+      transform: translateY(-2px);
+    }
+
     .shop-list-wrap {
       background: rgba(255, 253, 251, 0.5);
       border-radius: 26px;
       border: 1px dashed var(--line);
       padding: 16px;
       margin-top: 14px;
+    }
+
+    .result-count {
+      color: var(--muted);
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      margin-bottom: 12px;
+      text-transform: uppercase;
     }
 
     #shop-list {
@@ -509,12 +587,30 @@
       </div>
     </section>
 
+    <section class="filter-panel">
+      <div class="filter-title">絞り込み</div>
+      <div class="filter-form">
+        <label class="filter-label" for="shop-search">店舗名検索</label>
+        <input type="text" id="shop-search" class="filter-input" placeholder="店名またはカテゴリ" autocomplete="off">
+
+        <label class="filter-label" for="category-filter">カテゴリ</label>
+        <select id="category-filter" class="filter-select">
+          <option value="">全カテゴリ</option>
+        </select>
+
+        <button id="reset-filter" class="filter-reset">リセット</button>
+      </div>
+    </section>
+
     <section class="shop-list-wrap">
+      <div class="result-count" id="result-count">0件</div>
       <div id="shop-list">読み込み中...</div>
     </section>
   </div>
 
   <script>
+    let allStores = [];
+
     async function loadStores() {
       try {
         const response = await fetch('stores_2.json');
@@ -523,27 +619,78 @@
           throw new Error('データの取得に失敗しました');
         }
 
-        const stores = await response.json();
+        allStores = await response.json();
         const container = document.getElementById('shop-list');
-        container.innerHTML = '';
+        const categoryFilter = document.getElementById('category-filter');
+        const uniqueCategories = Array.from(new Set(allStores.map(shop => shop.category).filter(Boolean))).sort();
 
-        stores.forEach(shop => {
-          const card = document.createElement('div');
-          card.className = 'shop-card';
-          card.innerHTML = `
-            <span class="tagline">shop</span>
-            <h2>${shop.name}</h2>
-            <p><strong>住所:</strong> ${shop.address}</p>
-            <p><strong>営業時間:</strong> ${shop.hours}</p>
-          `;
-          container.appendChild(card);
+        uniqueCategories.forEach(category => {
+          const option = document.createElement('option');
+          option.value = category;
+          option.textContent = category;
+          categoryFilter.appendChild(option);
         });
+
+        renderStores(allStores);
       } catch (error) {
         const errorArea = document.getElementById('shop-list');
         errorArea.textContent = '店舗情報の読み込みエラーが発生しました。';
         console.error(error);
       }
     }
+
+    function renderStores(stores) {
+      const container = document.getElementById('shop-list');
+      const resultCount = document.getElementById('result-count');
+      container.innerHTML = '';
+
+      if (stores.length === 0) {
+        container.innerHTML = '<div class="shop-card"><h2>該当する店舗がありません</h2><p>検索条件を変更して再度お試しください。</p></div>';
+        resultCount.textContent = '0件';
+        return;
+      }
+
+      stores.forEach(shop => {
+        const card = document.createElement('div');
+        card.className = 'shop-card';
+        card.innerHTML = `
+          <span class="tagline">${shop.category || 'shop'}</span>
+          <h2>${shop.name}</h2>
+          <p><strong>住所:</strong> ${shop.address || '住所情報なし'}</p>
+          <p><strong>カテゴリ:</strong> ${shop.category || 'カテゴリ未登録'}</p>
+          <p><strong>営業時間:</strong> ${shop.hours || '営業時間情報なし'}</p>
+        `;
+        container.appendChild(card);
+      });
+
+      resultCount.textContent = `${stores.length}件`;
+    }
+
+    function updateSearch() {
+      const searchText = document.getElementById('shop-search').value.trim().toLowerCase();
+      const selectedCategory = document.getElementById('category-filter').value;
+
+      const filtered = allStores.filter(shop => {
+        const categoryMatch = selectedCategory ? shop.category === selectedCategory : true;
+        const effectiveSearch = searchText ? (
+          shop.name.toLowerCase().includes(searchText) ||
+          shop.category.toLowerCase().includes(searchText) ||
+          (shop.facility && shop.facility.toLowerCase().includes(searchText))
+        ) : true;
+
+        return categoryMatch && effectiveSearch;
+      });
+
+      renderStores(filtered);
+    }
+
+    document.getElementById('shop-search').addEventListener('input', updateSearch);
+    document.getElementById('category-filter').addEventListener('change', updateSearch);
+    document.getElementById('reset-filter').addEventListener('click', () => {
+      document.getElementById('shop-search').value = '';
+      document.getElementById('category-filter').value = '';
+      renderStores(allStores);
+    });
 
     loadStores();
   </script>
